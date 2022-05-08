@@ -8,7 +8,6 @@ import calendar
 
 import matplotlib.pylab as plt
 import matplotlib
-##matplotlib.font_manager._rebuild()
 
 import matplotlib.patches as mpatches
     
